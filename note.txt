@@ -1,0 +1,5 @@
+Study ternaries
+Brush up on if else and nested if else statements
+Brush up on switch statements
+Try and Catch
+Functions
